@@ -1,0 +1,19 @@
+{
+  "legos": [
+    {
+      "id": 1,
+      "creator": "Sam",
+      "color": "Blue",
+      "shape": "Animal",
+      "creation": "Chicken"
+    },
+    {
+      "creator": "Sam",
+      "color": "Brown",
+      "shape": "Dog",
+      "creation": "Wolf",
+      "colors": "Black",
+      "id": 2
+    }
+  ]
+}
